@@ -17,7 +17,7 @@ Check out my portfolio to see some of the projects I've worked on. [Portfolio](h
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&theme=dark)](https://github.com/awais-ashraf-dev)
 
 ## Get in Touch
-If you're interested in collaborating on a project or have any questions, feel free to reach out to me. You can contact me via email at your-email@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/awais-ashraf-se).
+If you're interested in collaborating on a project or have any questions, feel free to reach out to me. You can contact me via email at ashrafawais396@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/awais-ashraf-se).
 
 I'm always looking for exciting opportunities to work on interesting projects and expand my skill set. Let's create something awesome together!
 
